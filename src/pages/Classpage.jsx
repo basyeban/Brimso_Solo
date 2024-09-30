@@ -30,7 +30,11 @@ const Classpage = () => {
                     <h5 className='mb-5 px-3'>{kelas.title}</h5>
                     <div className='ket d-flex justify-content-between align-items-center px-3 pb-3'>
                       {/* <p className='m-0 text-primary fw-bold'>{kelas.price}</p> */}
-                      <button className='btn rounded-1' style={{ backgroundColor: '#c0915e', color: 'white' }}>Beli Menu</button>
+                      <a href={`https://wa.me/6285707699834`} target="_blank" rel="noopener noreferrer">
+  <button className='btn rounded-1' style ={{ backgroundColor: '#c0915e', color: 'white' }}>
+    Beli Menu
+  </button>
+</a>
                   </div>
                 </Col>
               );

@@ -101,7 +101,7 @@ export const semuaKelas = [
     star3: "fa-solid fa-star",
     star4: "fa-solid fa-star",
     star5: "fa-solid fa-star",
-    title: "Bombom Choco Cake",
+    title: "Fudgy brownies",
     price: "Rp. 380.000",
     buy: "Beli Menu",
     delay: "300",
@@ -197,7 +197,7 @@ export const kelasTerbaru = [
     star5: "fa-solid fa-star",
     title: "Miles Crepes",
     price: "Rp. 280.000",
-    buy: "Beli Kelas",
+    buy: "Beli Menu",
     delay: "400",
   },
   {
@@ -210,7 +210,7 @@ export const kelasTerbaru = [
     star5: "fa-solid fa-star",
     title: "Korean Garlic Cheese Bread",
     price: "Rp. 420.000",
-    buy: "Beli Kelas",
+    buy: "Beli Menu",
     delay: "",
   },
   {
@@ -221,9 +221,9 @@ export const kelasTerbaru = [
     star3: "fa-solid fa-star",
     star4: "fa-solid fa-star",
     star5: "fa-solid fa-star",
-    title: "Bombom Choco Cake",
+    title: "Fudgy Bronies",
     price: "Rp. 380.000",
-    buy: "Beli Kelas",
+    buy: "Beli Menu",
     delay: "200",
   },
   {
@@ -236,7 +236,7 @@ export const kelasTerbaru = [
     star5: "fa-solid fa-star",
     title: "Strudel Pisang Keju Coklat",
     price: "Rp. 300.000",
-    buy: "Beli Kelas",
+    buy: "Beli Menu",
     delay: "400",
   },
 ];
