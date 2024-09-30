@@ -43,7 +43,7 @@ function NavbarComponent() {
       </Nav>
 
       <div className="text-center">
-      <button className='btn rounded-1' style={{ backgroundColor: '#c0915e', color: 'white' }}>Follow Me</button>
+      <a href="https://www.instagram.com/brimso_solo/" className='btn rounded-1' style={{ backgroundColor: '#c0915e', color: 'white' }}>Follow Me</a>
       </div>
     </Navbar.Collapse>
   </Container>
